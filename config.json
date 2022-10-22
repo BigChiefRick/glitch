@@ -1,0 +1,45 @@
+{
+  "liveu": {
+    "email": "ticklefitzliveu@gmail.com",
+    "password": "Bigchiefrick@69100",
+    "id": null,
+    "monitor": {
+      "battery": true,
+      "batteryNotification": [
+        99,
+        50,
+        10,
+        5,
+        1
+      ],
+      "modems": true
+    }
+  },
+  "twitch": {
+    "botUsername": "tickleliveu",
+    "botOauth": "oauth:21jscmhojsigjz5ydufs4d9gym9vd3",
+    "channel": "Ticklefitz",
+    "adminUsers": null,
+    "modOnly": true
+  },
+  "commands": {
+    "cooldown": 5,
+    "stats": [
+      "!lustats",
+      "!liveustats",
+      "!lus"
+    ],
+    "battery": [
+      "!battery",
+      "!liveubattery",
+      "!lub"
+    ],
+    "start": "!lustart",
+    "stop": "!lustop",
+    "restart": "!lurestart",
+    "reboot": "!lureboot",
+    "delay": "!ludelay"
+  },
+  "rtmp": null,
+  "customPortNames": null
+}
